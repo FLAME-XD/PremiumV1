@@ -16,4 +16,3 @@ git pull
 python PremV1.py
 ```
 > [Tools Crack Cloning]
-```
